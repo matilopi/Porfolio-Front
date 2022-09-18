@@ -34,7 +34,7 @@ header .logo{
     font-size: 70px;
 }
 header nav{
-    width: 70%;
+    width: 180%;
     display: flex;
 }
 nav #search{
@@ -120,7 +120,7 @@ nav ul li a:hover{
     width: 50%;
 }
 .main-two img{
-    width: 650px;
+    width: 450px;
 }
 .projects{
     position: relative;
